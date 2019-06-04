@@ -11,3 +11,4 @@
 - no-gutters class (no spaces)
 - Custom CSS
 - Little Jquery for collapse modules
+- CDNJS EKKO Lightbox
