@@ -7,5 +7,6 @@
 - Grid
 - Collapse module
 - Flex boxes
+- Progress Bars
 - no-gutters class (no spaces)
 - Custom CSS
